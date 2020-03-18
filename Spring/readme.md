@@ -13,3 +13,7 @@
   
 ### travis <---> spring boot 에서 lombok 오류나는데 그거 해결하는거
   - <https://chunbong.github.io/post/java_web_programming/lombok-error-solving/>
+
+
+### travis 암호화 안되서 구조 바꿀려다가 참조한것
+  - <https://rainsound-k.github.io/deploy/2018/05/14/django-travis-ci.html>
