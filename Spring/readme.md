@@ -5,3 +5,7 @@
 
 ### 배포할때 @Slf4j log 오류나면 대처법
   - <https://okky.kr/article/511426>
+
+
+### 배달의민족 스프링 부트 rest 관련  
+  - <https://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html>
