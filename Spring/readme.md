@@ -1,2 +1,7 @@
 ### 스프링부트 배포할때 개발환경이랑 배포환경 어떻게 다르게하는지 알려주는 슬라이드
   - <https://www.slideshare.net/sbcoba/2015-47137155>
+
+
+
+### 배포할때 @Slf4j log 오류나면 대처법
+  - <https://okky.kr/article/511426>
