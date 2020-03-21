@@ -15,5 +15,5 @@
   - <https://chunbong.github.io/post/java_web_programming/lombok-error-solving/>
 
 
-### travis 암호화 안되서 구조 바꿀려다가 참조한것
-  - <https://rainsound-k.github.io/deploy/2018/05/14/django-travis-ci.html>
+### 스프링 인터뷰
+  - <https://dev.to/aershov24/60-java-and-spring-interview-questions-you-must-know-802>
