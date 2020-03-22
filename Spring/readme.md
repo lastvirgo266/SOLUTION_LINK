@@ -29,3 +29,12 @@
 
 ### 스프링 인터뷰
   - <https://dev.to/aershov24/60-java-and-spring-interview-questions-you-must-know-802>
+  
+&nbsp;
+&nbsp;
+  
+### Aws + Travis CI/CD 예제
+  - <https://jojoldu.tistory.com/265>
+  
+&nbsp;
+&nbsp;
