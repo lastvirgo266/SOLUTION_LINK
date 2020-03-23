@@ -1,3 +1,11 @@
+### 스프링 기본 동작 구조
+  - <https://intro0517.tistory.com/151>
+
+
+&nbsp;
+&nbsp;
+
+
 ### 스프링부트 배포할때 개발환경이랑 배포환경 어떻게 다르게하는지 알려주는 슬라이드
   - <https://www.slideshare.net/sbcoba/2015-47137155>
 
