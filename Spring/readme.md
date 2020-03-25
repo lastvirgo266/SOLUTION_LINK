@@ -26,6 +26,10 @@
  
 &nbsp;
 &nbsp;
+
+
+### REST API와 Rabbit MQ관계가 잘 이해안될때 보면 도움되는 예제
+  - <https://brunch.co.kr/@springboot/298>
  
   
 ### travis <---> spring boot 에서 lombok 오류나는데 그거 해결하는거
