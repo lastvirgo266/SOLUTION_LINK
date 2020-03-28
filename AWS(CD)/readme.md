@@ -4,3 +4,5 @@
 
 ### 리눅스 mongodb 설치
   - <http://cheonbrave.blogspot.com/2017/06/mongodb-server-db.html>
+  - <https://docs.mongodb.com/manual/tutorial/install-mongodb-on-amazon/>
+  
