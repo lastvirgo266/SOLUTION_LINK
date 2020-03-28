@@ -4,6 +4,7 @@
 
 ### 리눅스 mongodb 설치
   - <http://cheonbrave.blogspot.com/2017/06/mongodb-server-db.html>
-  - <https://docs.mongodb.com/manual/tutorial/install-mongodb-on-amazon/>\
+  - <https://docs.mongodb.com/manual/tutorial/install-mongodb-on-amazon/>
+  - <https://min9nim.github.io/2018/06/mongodb-setting/>
   - libc.so.6(GLIBC_2.18) 오류날때 : <https://forums.aws.amazon.com/thread.jspa?messageID=924703>
   
