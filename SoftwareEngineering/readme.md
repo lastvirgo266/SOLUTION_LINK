@@ -18,3 +18,7 @@
   
 &nbsp;
 &nbsp;
+
+
+### 클라우드 아키텍처
+  - <https://docs.microsoft.com/ko-kr/azure/architecture/patterns/category/messaging>
