@@ -69,10 +69,14 @@
 
 ### Rabbit MQ관계가 잘 이해안될때 보면 도움되는 예제
   - <https://brunch.co.kr/@springboot/298>
-  -<https://velog.io/@hellozin/Spring-Boot%EC%99%80-RabbitMQ-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%84%A4%EB%AA%85%EC%84%9C>
+  - <https://velog.io/@hellozin/Spring-Boot%EC%99%80-RabbitMQ-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%84%A4%EB%AA%85%EC%84%9C>
 &nbsp;
 &nbsp;
 
 
 ### lombok 설치
   - <https://duzi077.tistory.com/142>
+  
+  
+### 스프링 부트 멀티 모듈
+  - <https://taetaetae.github.io/2020/01/19/spring-boot-maven-multi-module/>
