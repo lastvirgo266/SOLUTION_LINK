@@ -78,7 +78,17 @@
 ### lombok 설치
   - <https://duzi077.tistory.com/142>
   
+&nbsp;
+&nbsp;
+
   
 ### 스프링 부트 멀티 모듈
   - <https://taetaetae.github.io/2020/01/19/spring-boot-maven-multi-module/>
   - <https://donzbox.tistory.com/594>
+  
+&nbsp;
+&nbsp;
+
+
+### RabbitMQ + STOMP + MQTT 채팅방 구조
+  - <https://skibis.tistory.com/309>
