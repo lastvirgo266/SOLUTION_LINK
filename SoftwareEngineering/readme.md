@@ -22,3 +22,7 @@
 
 ### 클라우드 아키텍처
   - <https://docs.microsoft.com/ko-kr/azure/architecture/patterns/category/messaging>
+
+
+### 배민이 실시간 기반(소켓)으로 바꾼이유
+  - <https://woowabros.github.io/woowabros/2017/09/12/realtime-service.html>
