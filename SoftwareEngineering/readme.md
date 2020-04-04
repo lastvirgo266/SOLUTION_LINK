@@ -35,3 +35,15 @@
   
 ### MQTT
   - <https://dydtjr1128.github.io/mqtt/2018/01/31/MQTT-and-MQTT-brokers.html>
+  
+ &nbsp;
+&nbsp;
+ 
+### 우아한 형제 MQTT 도입이유
+  - <https://woowabros.github.io/experience/2017/08/11/ost_mqtt_broker.html>
+  
+ &nbsp;
+&nbsp;
+  
+### MQTT VS AMQP
+  - <https://www.educba.com/amqp-vs-mqtt/>
