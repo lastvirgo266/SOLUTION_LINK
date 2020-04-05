@@ -92,3 +92,6 @@
 
 ### RabbitMQ + STOMP + MQTT 채팅방 구조
   - <https://skibis.tistory.com/309>
+  
+### RabbitMQ Consumer 방식이 아닌 Client 방식으로 접근
+  - <https://www.rabbitmq.com/api-guide.html>
