@@ -95,3 +95,8 @@
   
 ### RabbitMQ Consumer 방식이 아닌 Client 방식으로 접근
   - <https://www.rabbitmq.com/api-guide.html>
+  
+  
+  
+### RabbitMQ Client API 정리해놓은 곳
+  - <https://bigboss.io/2017/04/the-channel-interface-of-the-rabbitmq-java-client-library/>
