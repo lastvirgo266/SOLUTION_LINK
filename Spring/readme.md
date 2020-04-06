@@ -93,10 +93,24 @@
 ### RabbitMQ + STOMP + MQTT 채팅방 구조
   - <https://skibis.tistory.com/309>
   
+   
+&nbsp;
+&nbsp;
+
 ### RabbitMQ Consumer 방식이 아닌 Client 방식으로 접근
   - <https://www.rabbitmq.com/api-guide.html>
   
   
-  
+   
+&nbsp;
+&nbsp;
+
 ### RabbitMQ Client API 정리해놓은 곳
   - <https://bigboss.io/2017/04/the-channel-interface-of-the-rabbitmq-java-client-library/>
+
+  
+&nbsp;
+&nbsp;
+
+### RabbitMQ receive example
+  - <https://www.programcreek.com/java-api-examples/?class=com.rabbitmq.client.Channel&method=basicConsume>
