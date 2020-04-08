@@ -114,3 +114,7 @@
 
 ### RabbitMQ receive example
   - <https://www.programcreek.com/java-api-examples/?class=com.rabbitmq.client.Channel&method=basicConsume>
+  
+  
+### STOMP 방식의 스프링 부트 채팅
+  - <https://daddyprogrammer.org/post/4691/spring-websocket-chatting-server-stomp-server/>
