@@ -4,3 +4,8 @@
 
 ### 젠킨스 포트 변경
   - <https://kutar37.tistory.com/entry/%EC%9C%88%EB%8F%84%EC%9A%B0-Jenkins-%EC%84%A4%EC%B9%98-%EA%B8%B0%EB%B3%B8%EC%84%A4%EC%A0%95>
+  
+  
+  
+### 젠킨스 배포
+  - <https://kingbbode.tistory.com/42>
