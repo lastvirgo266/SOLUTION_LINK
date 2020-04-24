@@ -128,3 +128,7 @@
   
 ### Spring Cloud Config 예제
   - <https://coding-start.tistory.com/120>
+
+
+### 유레카 대쉬보드가 안보인다구???
+  - <https://stackoverflow.com/questions/40936597/spring-eureka-app-doesnt-show-dashboard>
