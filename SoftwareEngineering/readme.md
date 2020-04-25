@@ -51,3 +51,7 @@
   
 ### 우아한 형제 알람 서비스 구조
   - <https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F3cJa3UI%3Ffbclid%3DIwAR07nHz-FKtaOKeP-ZlxEQ8VmDSM_E-LZbVMEEQIA-kyd4h4tWDEzPk3Suo&h=AT1Q3zYsQ7Xwp2tLciic8B-XOa9Mhhm_kCFj_-HrB7pfj1MVVMdEcTx2a4FG8ByPG42VzrUE2X6Fxoy7OavCj_ehLVcnKHPQ0CjysTIYCP614zLx3M4ZeF_FmJMD6XeOMVT5&__tn__=-UK-y-R&c[0]=AT0EnWRaJBc9NNdvS3YlxvRZnA5MQKM-Ye4DVi0PXixL5SRJ6Ye1MSCy0M9RVrnaR96bYmwihg3IjgvUjG6nXJaQh-F8frG8SVhA3lzmr6tlXa8Pm3jkFwamYBL01lpEojXAGT-hZkll8Tsdo3bvA_pAB4uWqX0E-e_Meqq4lGRVdojpdLN-k6-s96kijWDTZAavSgld1UovnHiG04ep3Q>
+
+
+### 카나리아 테스트
+  - <https://krksap.tistory.com/1202>
