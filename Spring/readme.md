@@ -143,3 +143,7 @@
   
 ### Spring Batch + Quartz
 - <https://blog.kingbbode.com/posts/spring-batch-quartz>
+
+
+### Spring Boot Quartz Cron 다루기
+- <https://advenoh.tistory.com/52>
