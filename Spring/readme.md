@@ -139,3 +139,7 @@
 
 ### Spring Batch Duplicate Error
   - <https://navy-apple.com/errors/spring/batch-duplicate-entry>
+  
+  
+### Spring Batch + Quartz
+- <https://blog.kingbbode.com/posts/spring-batch-quartz>
