@@ -144,6 +144,9 @@
 ### Spring Batch + Quartz
 - <https://blog.kingbbode.com/posts/spring-batch-quartz>
 
+### Spring Boot Batch Quartz Tutorial
+- <https://www.jackrutorial.com/2018/03/quartz-scheduler-annotation-with-spring-batch-in-spring-boot-tutorial.html>
+
 
 ### Spring Boot Quartz Cron 다루기
 - <https://advenoh.tistory.com/52>
