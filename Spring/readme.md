@@ -150,3 +150,6 @@
 
 ### Spring Boot Quartz Cron 다루기
 - <https://advenoh.tistory.com/52>
+
+### Batch의 Tasklet을 작성할때 서비스로직을 넣으면 왜 nullPointer 오류가날까?
+- <https://juneyr.dev/2019-07-24/spring-batch-tasklet>
