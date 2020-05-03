@@ -135,3 +135,7 @@
   
 ### 유레카 레플리카
   - <https://miin29na.tistory.com/11>
+
+
+### Spring Batch Duplicate Error
+  - <https://navy-apple.com/errors/spring/batch-duplicate-entry>
