@@ -8,3 +8,7 @@
 
 ### 카프카 로그스태시 연동
   - <https://gyrfalcon.tistory.com/entry/LogstashShipper-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-Kafka-%EB%A9%94%EC%84%B8%EC%A7%80%EB%A5%BC-elasticsearch%EB%A1%9C-%EC%A0%80%EC%9E%A5>
+
+
+### Kafka <--> logstash Error
+- <https://stackoverflow.com/questions/51630260/connect-to-kafka-running-in-docker>
