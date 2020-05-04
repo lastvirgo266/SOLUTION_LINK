@@ -153,3 +153,6 @@
 
 ### Batch의 Tasklet을 작성할때 서비스로직을 넣으면 왜 nullPointer 오류가날까?
 - <https://juneyr.dev/2019-07-24/spring-batch-tasklet>
+
+### Kafka <--> logstash Error
+- <https://stackoverflow.com/questions/50018611/logstash-kafka-input-cannot-connect>
