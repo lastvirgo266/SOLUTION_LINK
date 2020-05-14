@@ -156,3 +156,7 @@
 
 ### Kafka <--> logstash Error
 - <https://stackoverflow.com/questions/50018611/logstash-kafka-input-cannot-connect>
+
+
+### Spring Security 로그인 구현 예제
+- <https://victorydntmd.tistory.com/328>
