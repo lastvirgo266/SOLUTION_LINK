@@ -164,3 +164,7 @@
 
 ### Spring Security JWT 구현 예제
 - <https://velog.io/@minholee_93/Spring-Security-JWT-Security-Spring-Boot-10>
+
+
+### 실무 LOMBOK 사용법
+- <https://www.popit.kr/%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-lombok-%EC%82%AC%EC%9A%A9%EB%B2%95/>
