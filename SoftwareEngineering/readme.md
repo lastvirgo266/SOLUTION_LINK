@@ -55,3 +55,7 @@
 
 ### 카나리아 테스트
   - <https://krksap.tistory.com/1202>
+  
+  
+### 도메인 주도 설계의 한계
+- <https://medium.com/@dreamingsandwich/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-domain-driven-design-in-real-project-%ED%95%9C%EA%B3%84-4cc6f8048c1>
