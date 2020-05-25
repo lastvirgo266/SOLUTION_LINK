@@ -172,3 +172,7 @@
 
 ### 현직자가 작성한 리액트와 스프링 security와 MYSQL 쓴거
 - <https://woolbro.tistory.com/45?category=818994>
+
+
+### Spring API Gateway + Websockets
+- <https://blog.joshmlwood.com/load-balanced-websockets-with-spring-cloud-gateway/>
