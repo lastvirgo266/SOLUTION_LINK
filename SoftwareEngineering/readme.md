@@ -59,3 +59,6 @@
   
 ### 도메인 주도 설계의 한계
 - <https://medium.com/@dreamingsandwich/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-domain-driven-design-in-real-project-%ED%95%9C%EA%B3%84-4cc6f8048c1>
+
+### VPN
+- <https://medium.com/watcha/watcha-%EC%82%AC%EB%82%B4-vpn-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-e04f946d3ccb>
