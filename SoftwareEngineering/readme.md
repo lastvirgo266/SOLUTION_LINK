@@ -65,3 +65,6 @@
 
 ### 네이버 D2 대용량 처리 시스템
 - <https://d2.naver.com/helloworld/6070967>
+
+### JWT, Session, Cookie
+- <https://dooopark.tistory.com/6>
