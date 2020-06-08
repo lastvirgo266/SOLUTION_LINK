@@ -62,3 +62,6 @@
 
 ### VPN
 - <https://medium.com/watcha/watcha-%EC%82%AC%EB%82%B4-vpn-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-e04f946d3ccb>
+
+### 네이버 D2 대용량 처리 시스템
+- <https://d2.naver.com/helloworld/6070967>
