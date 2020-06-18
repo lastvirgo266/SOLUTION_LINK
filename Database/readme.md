@@ -16,3 +16,7 @@
 
 ### 트랜잭션
 - <https://coding-factory.tistory.com/82>
+
+
+### MYSQL
+- <https://blog.lael.be/post/370>
