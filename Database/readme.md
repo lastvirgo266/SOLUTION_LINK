@@ -12,3 +12,7 @@
 
 ### Kafka <--> logstash Error
 - <https://stackoverflow.com/questions/51630260/connect-to-kafka-running-in-docker>
+
+
+### 트랜잭션
+- <https://coding-factory.tistory.com/82>
