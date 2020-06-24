@@ -13,3 +13,6 @@
 ### 보안그룹에 인스턴스 추가하기
   - <https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-security-groups.html>
   
+
+### AWS Educate
+- <https://pages.awscloud.com/cloud-in-life-coding-everybody-2020.html>
