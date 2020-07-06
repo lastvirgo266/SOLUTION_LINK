@@ -199,3 +199,7 @@
 
 ### Token을 쿠키에 보관하나요?
 - <https://www.a-ha.io/questions/41b92d13b08fe991acc5fa3a5a2889ff>
+
+
+### JWT 이것저것(자신의 의견이 잘 피력되어있는 블로그)
+- <https://velog.io/@city7310/%EB%B0%B1%EC%97%94%EB%93%9C%EA%B0%80-%EC%9D%B4%EC%A0%95%EB%8F%84%EB%8A%94-%ED%95%B4%EC%A4%98%EC%95%BC-%ED%95%A8-5.-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EB%B0%A9%EC%8B%9D-%EA%B2%B0%EC%A0%95>
