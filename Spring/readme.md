@@ -190,3 +190,6 @@
 
 ### 네티를 이용한 채팅
 - <https://woowabros.github.io/experience/2020/06/19/chat-app.html?fbclid=IwAR3cDcTBHweDksql9f0efXBuxmA7gQF1oCb1AhyWLpT0qJyBhypd8e4Y4P0>
+
+### REST PUT과 PATCH의 차이
+- <https://papababo.tistory.com/269>
