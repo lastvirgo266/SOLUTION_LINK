@@ -196,3 +196,6 @@
 
 ### 스프링 트랜잭션 전파
 - <https://deveric.tistory.com/86>
+
+### Token을 쿠키에 보관하나요?
+- <https://www.a-ha.io/questions/41b92d13b08fe991acc5fa3a5a2889ff>
