@@ -20,3 +20,7 @@
 
 ### MYSQL
 - <https://blog.lael.be/post/370>
+
+
+### Commit의 성능저하
+- <https://kldp.org/node/95776>
