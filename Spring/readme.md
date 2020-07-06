@@ -193,3 +193,6 @@
 
 ### REST PUT과 PATCH의 차이
 - <https://papababo.tistory.com/269>
+
+### 스프링 트랜잭션 전파
+- <https://deveric.tistory.com/86>
