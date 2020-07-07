@@ -24,3 +24,7 @@
 
 ### Commit의 성능저하
 - <https://kldp.org/node/95776>
+
+
+### SQL 인덱스 기초
+- <https://webcoding.tistory.com/entry/SQL-%EC%9D%B8%EB%8D%B1%EC%8A%A4>
