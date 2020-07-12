@@ -16,3 +16,7 @@
 
 ### AWS Educate
 - <https://pages.awscloud.com/cloud-in-life-coding-everybody-2020.html>
+
+
+### AWS 사례
+- <https://aws.amazon.com/ko/blogs/korea/aws-well-architected-framework-updated-white-papers-tools-and-best-practices/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0ZIYTGrbtMPsW6exlAM-Xl_f6wiMLh3P3y5qQdLhixsV2A3nSv2EXhi-c>
