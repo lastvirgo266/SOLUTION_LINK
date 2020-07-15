@@ -207,3 +207,7 @@
 
 ### Spring clound gateway vs Spring Zuul
 - <https://velog.io/@tlatldms/%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%BA%A0%ED%94%84-MSA-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%EC%9D%98-API-Gateway-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B2%B0%EC%A0%95>
+
+
+### Spring Cloud API Gateway 만들때 아키텍처 참고
+- <https://bcho.tistory.com/1005>
