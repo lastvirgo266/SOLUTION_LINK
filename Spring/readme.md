@@ -211,3 +211,6 @@
 
 ### Spring Cloud API Gateway 만들때 아키텍처 참고
 - <https://bcho.tistory.com/1005>
+
+### Spring Cloud Zuul
+- <https://sabarada.tistory.com/56?category=822738>
