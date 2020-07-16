@@ -68,3 +68,6 @@
 
 ### JWT, Session, Cookie
 - <https://dooopark.tistory.com/6>
+
+### MSA 아키텍처 통신
+- <https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture>
