@@ -214,3 +214,6 @@
 
 ### Spring Cloud Zuul
 - <https://sabarada.tistory.com/56?category=822738>
+
+### MSA DB 설계 --> 래빗MQ를 이용해서 해결 --> 그러나 여전히 문제 존재함
+- <https://kihoonkim.github.io/2018/03/25/Microservices%20Architecture/first-msa-retro/>
