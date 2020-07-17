@@ -9,3 +9,7 @@
   
 ### 젠킨스 배포
   - <https://kingbbode.tistory.com/42>
+
+
+### 젠킨스 튜토리얼
+- <https://jojoldu.tistory.com/139>
