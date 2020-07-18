@@ -220,3 +220,6 @@
 
 ### spring cloud security(JWT) + zuul proxy
 - <https://medium.com/@bharatrajmeriyala/spring-cloud-security-with-netflix-zuul-2ef04a1dcfb>
+
+### spring zuul + prefilter 체크하는법
+- <https://stackoverflow.com/questions/37180375/using-zuul-as-an-authentication-gateway>
