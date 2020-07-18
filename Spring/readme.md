@@ -219,7 +219,7 @@
 - <https://kihoonkim.github.io/2018/03/25/Microservices%20Architecture/first-msa-retro/>
 
 ### spring cloud security(JWT) + zuul proxy
-- <https://medium.com/@bharatrajmeriyala/spring-cloud-security-with-netflix-zuul-2ef04a1dcfb>
+- <https://github.com/shuaicj/zuul-auth-example>
 
 ### spring zuul + prefilter 체크하는법
 - <https://stackoverflow.com/questions/37180375/using-zuul-as-an-authentication-gateway>
