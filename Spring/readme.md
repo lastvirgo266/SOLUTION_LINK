@@ -220,6 +220,7 @@
 
 ### spring cloud security(JWT) + zuul proxy
 - <https://github.com/shuaicj/zuul-auth-example>
+- <https://velog.io/@sa833591/Spring-Security-5-Spring-Security-Filter-%EC%A0%81%EC%9A%A9>
 
 ### spring zuul + prefilter 체크하는법
 - <https://stackoverflow.com/questions/37180375/using-zuul-as-an-authentication-gateway>
