@@ -223,3 +223,6 @@
 
 ### spring zuul + prefilter 체크하는법
 - <https://stackoverflow.com/questions/37180375/using-zuul-as-an-authentication-gateway>
+
+### spring zuul filter & route 공식가이드
+- <https://cloud.spring.io/spring-cloud-netflix/multi/multi__router_and_filter_zuul.html#zuul-developer-guide-sample-pre-filter>
