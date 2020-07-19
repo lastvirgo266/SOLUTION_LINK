@@ -227,3 +227,7 @@
 
 ### spring zuul filter & route 공식가이드
 - <https://cloud.spring.io/spring-cloud-netflix/multi/multi__router_and_filter_zuul.html#zuul-developer-guide-sample-pre-filter>
+
+
+### spring 분산 트랜잭션
+- <https://skasha.tistory.com/30>
