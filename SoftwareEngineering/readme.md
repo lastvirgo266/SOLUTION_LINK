@@ -71,3 +71,6 @@
 
 ### MSA 아키텍처 통신
 - <https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture>
+
+### SAGA 패턴
+- <https://microservices.io/patterns/data/saga.html>
