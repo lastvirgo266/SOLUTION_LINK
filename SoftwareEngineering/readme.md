@@ -74,3 +74,7 @@
 
 ### SAGA 패턴
 - <https://microservices.io/patterns/data/saga.html>
+
+
+### 래빗엠큐 클러스터링
+- <https://velog.io/@labyu/RabbitMQ-3>
