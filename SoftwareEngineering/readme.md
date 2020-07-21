@@ -78,3 +78,4 @@
 
 ### 래빗엠큐 클러스터링
 - <https://velog.io/@labyu/RabbitMQ-3>
+- <http://abh0518.net/tok/?p=411>
