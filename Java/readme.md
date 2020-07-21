@@ -3,3 +3,6 @@
 
 ### 자바 람다
 - <https://bombichun.tistory.com/entry/JAVA%EB%9E%8C%EB%8B%A4%EC%99%80-%EC%8A%A4%ED%8A%B8%EB%A6%BCLambda-Stream>
+
+### 원격 쉘 호출
+- <https://www.leafcats.com/177>
