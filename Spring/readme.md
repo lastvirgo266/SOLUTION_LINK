@@ -244,3 +244,7 @@
 
 ###  Spring Streaming video example
 - <https://medium.com/@saravanastar/video-streaming-over-http-using-spring-boot-51e9830a3b8>
+
+
+### spring boot jap enum convert
+- <https://woowabros.github.io/experience/2019/01/09/enum-converter.html>
