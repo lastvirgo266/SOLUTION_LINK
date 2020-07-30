@@ -248,3 +248,4 @@
 
 ### spring boot jap enum convert
 - <https://woowabros.github.io/experience/2019/01/09/enum-converter.html>
+- <https://medium.com/@odysseymoon/jpa-entity%EC%97%90-enum-%ED%83%80%EC%9E%85-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-9ce2f6ee3148>
