@@ -253,3 +253,6 @@
 
 ### jpa enum 활용
 - <https://jojoldu.tistory.com/122>
+
+### spring scheduler
+- <https://www.google.com/search?sxsrf=ALeKk01KwwZEBnNSUnkF0tyzpo9Llx33Ow%3A1596211184720&ei=8D8kX6e-K4WvoASfm62QBw&q=spring+%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC&oq=spring+%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC&gs_lcp=CgZwc3ktYWIQAzIGCAAQChAqMgIIADICCAAyBAgAEAoyAggAMgIIADIECAAQHjIECAAQHjIECAAQHjIGCAAQChAeOgQIIxAnOgcIABAUEIcCOgUIABCxAzoKCAAQsQMQFBCHAlDiDVjqJGDdJ2gCcAB4AYABbIgBuw2SAQQxNS4zmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwin9pqF7vfqAhWFF4gKHZ9NC3IQ4dUDCAw&uact=5>
