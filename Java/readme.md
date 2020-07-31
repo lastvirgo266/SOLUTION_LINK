@@ -6,3 +6,7 @@
 
 ### 원격 쉘 호출
 - <https://www.leafcats.com/177>
+
+
+### Try-Catch Block Scope
+- <https://stackoverflow.com/questions/11655020/why-does-a-try-catch-block-create-new-variable-scope>
