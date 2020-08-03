@@ -261,3 +261,4 @@
 
 ### spring 스케줄러 커스터마이징
   - <https://jeong-pro.tistory.com/186>
+  - <https://m.blog.naver.com/PostView.nhn?blogId=dg110&logNo=221589812687&proxyReferer=https:%2F%2Fwww.google.com%2F>
