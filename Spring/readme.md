@@ -266,3 +266,7 @@
 
 ### spring 트랜잭션 분리
 - <https://davidpark20.tistory.com/46?category=779431>
+
+
+### spring 무결성 확정을 위한 DAO 도입
+- <https://www.logicbig.com/tutorials/spring-framework/spring-orm/spring-jpa-dao.html>
