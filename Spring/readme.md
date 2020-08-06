@@ -270,3 +270,6 @@
 
 ### spring 무결성 확정을 위한 DAO 도입
 - <https://www.logicbig.com/tutorials/spring-framework/spring-orm/spring-jpa-dao.html>
+
+### spring 트랜잭션 성능
+- <https://2dongdong.tistory.com/29>
