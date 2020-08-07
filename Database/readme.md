@@ -32,3 +32,7 @@
 
 ### DB 이중화
 - <https://server-talk.tistory.com/240>
+
+
+### 레디스 이중화
+- <https://ossian.tistory.com/37>
