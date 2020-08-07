@@ -273,3 +273,7 @@
 
 ### spring 트랜잭션 성능
 - <https://2dongdong.tistory.com/29>
+
+
+### 인터페이스 deserialzation
+- <https://stackoverflow.com/questions/25387978/how-to-add-custom-deserializer-to-interface-using-jackson>
