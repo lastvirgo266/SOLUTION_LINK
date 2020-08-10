@@ -36,3 +36,6 @@
 
 ### 레디스 이중화
 - <https://ossian.tistory.com/37>
+
+### 레디스 RDB, AOF 모드
+- <https://ossian.tistory.com/42>
