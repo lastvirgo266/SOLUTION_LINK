@@ -277,3 +277,7 @@
 
 ### 인터페이스 deserialzation
 - <https://stackoverflow.com/questions/25387978/how-to-add-custom-deserializer-to-interface-using-jackson>
+
+
+### 로그분석
+- <https://goddaehee.tistory.com/206>
