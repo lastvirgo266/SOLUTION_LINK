@@ -281,3 +281,6 @@
 
 ### 로그분석
 - <https://goddaehee.tistory.com/206>
+
+### spring 트랜잭션이 애매하게 감이 잘 안올때
+- <https://meaownworld.tistory.com/90>
