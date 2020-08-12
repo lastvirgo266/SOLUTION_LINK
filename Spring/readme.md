@@ -284,3 +284,6 @@
 
 ### spring 트랜잭션이 애매하게 감이 잘 안올때
 - <https://meaownworld.tistory.com/90>
+
+### 트랜잭션 매니저를 통한 수동커밋
+- <http://a.zany.kr:9003/board/bView.asp?bCode=52299899&aCode=8038>
