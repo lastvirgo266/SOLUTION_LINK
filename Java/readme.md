@@ -10,3 +10,6 @@
 
 ### Try-Catch Block Scope
 - <https://stackoverflow.com/questions/11655020/why-does-a-try-catch-block-create-new-variable-scope>
+
+### 자바 빌더 패턴
+- https://johngrib.github.io/wiki/builder-pattern/
