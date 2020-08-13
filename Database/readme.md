@@ -39,3 +39,6 @@
 
 ### 레디스 RDB, AOF 모드
 - <https://ossian.tistory.com/42>
+
+### 몽고DB 계정
+- <https://spiralmoon.tistory.com/60>
