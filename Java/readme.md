@@ -13,3 +13,6 @@
 
 ### 자바 빌더 패턴
 - https://johngrib.github.io/wiki/builder-pattern/
+
+### String으로 메서드 호출
+- <https://charlie-choi.tistory.com/120>
