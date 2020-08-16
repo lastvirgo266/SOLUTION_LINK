@@ -288,3 +288,7 @@
 ### 트랜잭션 매니저를 통한 수동커밋
 - <http://a.zany.kr:9003/board/bView.asp?bCode=52299899&aCode=8038>
 - <https://cnpnote.tistory.com/entry/SPRING-Transactional-%EB%A9%94%EC%84%9C%EB%93%9C%EC%97%90%EC%84%9C-%EC%BB%A4%EB%B0%8B%EC%9D%84-%EC%88%98%EB%8F%99%EC%9C%BC%EB%A1%9C-%EA%B0%95%EC%A0%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%B3%B5%EC%A0%9C>
+
+
+### 트랜잭션 관련
+- <https://reiphiel.tistory.com/entry/understanding-of-spring-transaction-management-practice>
