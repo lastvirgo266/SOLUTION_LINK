@@ -292,3 +292,7 @@
 
 ### 트랜잭션 관련
 - <https://reiphiel.tistory.com/entry/understanding-of-spring-transaction-management-practice>
+
+
+### 스트리밍 네이버 D2
+- <https://d2.naver.com/helloworld/5626759>
