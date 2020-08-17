@@ -42,3 +42,6 @@
 
 ### 몽고DB 계정
 - <https://spiralmoon.tistory.com/60>
+
+### 레디스 트랜잭션
+- <http://blog.naver.com/willygwu2003/130172706093>
