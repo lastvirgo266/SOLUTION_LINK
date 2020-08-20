@@ -4,3 +4,7 @@
 
 ### 인프라기초
 - <https://ithub.tistory.com/249>
+
+
+### 프로그램 실행 유지한채로 SSH 접속 끊기
+- <https://umbum.dev/558>
