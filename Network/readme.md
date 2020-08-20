@@ -5,3 +5,6 @@
 
 ### 리눅스 : UnknownHostException: name or service not known
 - <https://stackoverflow.com/questions/33028842/unknownhostexception-name-or-service-not-known>
+
+### FTP 550 에러
+- <https://serverfault.com/questions/598392/ftp-550-permission-denied>
