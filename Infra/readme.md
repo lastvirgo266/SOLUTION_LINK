@@ -8,3 +8,4 @@
 
 ### 프로그램 실행 유지한채로 SSH 접속 끊기
 - <https://umbum.dev/558>
+- <https://mytory.net/archives/2340> 
