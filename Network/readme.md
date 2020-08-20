@@ -8,3 +8,6 @@
 
 ### FTP 550 에러
 - <https://serverfault.com/questions/598392/ftp-550-permission-denied>
+
+### FTP 503 에러
+- <https://jimnong.tistory.com/722
