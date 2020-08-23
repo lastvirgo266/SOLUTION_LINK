@@ -303,3 +303,6 @@
 
 ### EH캐시
 - <https://jojoldu.tistory.com/57>
+
+### spring mongodb createdDate
+- <https://stackoverflow.com/questions/45015225/spring-data-fills-lastmodifieddate-by-not-createddate>
