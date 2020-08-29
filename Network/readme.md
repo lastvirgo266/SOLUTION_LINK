@@ -11,3 +11,6 @@
 
 ### FTP 503 에러
 - <https://jimnong.tistory.com/722
+
+### VPN
+- <https://medium.com/watcha/watcha-%EC%82%AC%EB%82%B4-vpn-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-e04f946d3ccb>
