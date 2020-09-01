@@ -83,3 +83,6 @@
 
 ### Restful API 설계 예제
 - <https://sanghaklee.tistory.com/57>
+
+### 추상화 수준
+- <https://sosimhan-dev.tistory.com/4>
