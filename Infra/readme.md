@@ -9,3 +9,7 @@
 ### 프로그램 실행 유지한채로 SSH 접속 끊기
 - <https://umbum.dev/558>
 - <https://mytory.net/archives/2340> 
+
+
+### 외부 SMTP 서버를 이용하여 메일 보내기
+- <https://yjshin.tistory.com/entry/CentOS-7-%EB%A9%94%EC%9D%BC%EC%84%9C%EB%B2%84%EC%9D%98-SMTP%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EB%A9%94%EC%9D%BC%EC%A0%84%EC%86%A1>
