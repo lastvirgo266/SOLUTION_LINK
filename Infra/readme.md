@@ -13,3 +13,7 @@
 
 ### 외부 SMTP 서버를 이용하여 메일 보내기
 - <https://yjshin.tistory.com/entry/CentOS-7-%EB%A9%94%EC%9D%BC%EC%84%9C%EB%B2%84%EC%9D%98-SMTP%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EB%A9%94%EC%9D%BC%EC%A0%84%EC%86%A1>
+
+
+### 오픈스택
+- <https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D>
