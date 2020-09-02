@@ -14,3 +14,7 @@
 
 ### VPN
 - <https://medium.com/watcha/watcha-%EC%82%AC%EB%82%B4-vpn-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-e04f946d3ccb>
+
+
+### 공유기 기능에 대해
+- <https://studyforus.tistory.com/230>
