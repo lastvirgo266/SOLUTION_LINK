@@ -45,3 +45,6 @@
 
 ### 레디스 트랜잭션
 - <http://blog.naver.com/willygwu2003/130172706093>
+
+### 동시성 제어
+- <https://medium.com/pocs/%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-%EA%B8%B0%EB%B2%95-%EC%9E%A0%EA%B8%88-locking-%EA%B8%B0%EB%B2%95-319bd0e6a68a>
