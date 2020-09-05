@@ -306,3 +306,7 @@
 
 ### spring mongodb createdDate
 - <https://stackoverflow.com/questions/45015225/spring-data-fills-lastmodifieddate-by-not-createddate>
+
+### 빈즈주입방식 변경
+- <https://velog.io/@aidenshin/%ED%95%84%EB%93%9C%EC%A3%BC%EC%9E%85-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%A3%BC%EC%9E%85%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD>
+- <https://madplay.github.io/post/why-constructor-injection-is-better-than-field-injection>
