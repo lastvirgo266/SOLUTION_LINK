@@ -86,3 +86,6 @@
 
 ### 추상화 수준
 - <https://sosimhan-dev.tistory.com/4>
+
+### 객체지향 개발 원리
+- <http://www.nextree.co.kr/p6960/>
