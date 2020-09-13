@@ -89,3 +89,6 @@
 
 ### 객체지향 개발 원리
 - <http://www.nextree.co.kr/p6960/>
+
+### 템플릿 콜백 패턴
+- <https://siyoon210.tistory.com/131>
