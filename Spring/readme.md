@@ -314,3 +314,7 @@
 
 ### Spring + Stomp + react
 - <https://dydtjr1128.github.io/spring/2019/05/26/Springboot-react-chatting.html>
+
+
+### Spring 중복코드 줄이기
+- <https://thxwelchs.github.io/SPRING-DUPLICATION/>
