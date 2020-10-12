@@ -92,3 +92,6 @@
 
 ### 템플릿 콜백 패턴
 - <https://siyoon210.tistory.com/131>
+
+### 디자인패턴
+- <https://gmlwjd9405.github.io/2018/07/06/design-pattern.html
