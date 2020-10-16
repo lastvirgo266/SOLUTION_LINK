@@ -4,3 +4,7 @@
 
 ### 뷰티파이 적용
 - <https://osc131.tistory.com/122>
+
+
+### API호출
+- <https://dinfree.com/blog/2019/02/10/vue.html>
