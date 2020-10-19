@@ -94,4 +94,7 @@
 - <https://siyoon210.tistory.com/131>
 
 ### 디자인패턴
-- <https://gmlwjd9405.github.io/2018/07/06/design-pattern.html
+- <https://gmlwjd9405.github.io/2018/07/06/design-pattern.html>
+
+### 디자인패턴 예제 모음
+- <https://victorydntmd.tistory.com/292?category=719467>
