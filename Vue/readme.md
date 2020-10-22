@@ -8,3 +8,7 @@
 
 ### API호출
 - <https://dinfree.com/blog/2019/02/10/vue.html>
+
+
+### vuex store
+- <https://vuex.vuejs.org/kr/guide/state.html>
