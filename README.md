@@ -2,3 +2,7 @@
 예전에 참조했던 링크들을 볼필요가 있는데 그걸 모아둔것
  
   
+
+
+
+https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304
