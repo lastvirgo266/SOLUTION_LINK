@@ -318,3 +318,7 @@
 
 ### Spring 중복코드 줄이기
 - <https://thxwelchs.github.io/SPRING-DUPLICATION/>
+
+
+### 스프링 톰캣 상호작용이 잘 이해 안될때
+- <https://codevang.tistory.com/191>
