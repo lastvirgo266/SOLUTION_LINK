@@ -21,3 +21,7 @@
 
 ### nginX 와 아파치
 - <https://cntechsystems.tistory.com/24>
+
+
+### nfs 서버 구축하기
+- <https://waspro.tistory.com/586>
