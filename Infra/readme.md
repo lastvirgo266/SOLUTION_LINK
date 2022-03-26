@@ -25,3 +25,7 @@
 
 ### nfs 서버 구축하기
 - <https://waspro.tistory.com/586>
+
+
+## JMeter
+- <https://velog.io/@ehdrms2034/%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-Apache-Jmeter-%EC%84%A4%EC%B9%98%EB%B6%80%ED%84%B0-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%82%AC%EC%9A%A9%EA%B9%8C%EC%A7%80>
