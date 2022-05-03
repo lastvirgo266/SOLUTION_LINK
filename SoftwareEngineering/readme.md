@@ -98,3 +98,7 @@
 
 ### 디자인패턴 예제 모음
 - <https://victorydntmd.tistory.com/292?category=719467>
+
+
+### 배민 라이브 쇼핑 채팅 (Flux를 사용)
+- <https://techblog.woowahan.com/5268/>
